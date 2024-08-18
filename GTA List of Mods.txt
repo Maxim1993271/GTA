@@ -1,0 +1,1225 @@
+Essentials Pack
+
+01. Ultimate ASI Loader v7.7.0
+
+02. CLEO v4.4.4
+
+03. CLEO+ v1.2.0
+
+04. NewOpcodes.cleo v2.1
+
+05. ModLoader v0.3.7
+
+06. SilentPatch
+
+07. Widescreen Fix
+
+08. Windowed Mode 
+
+09. Framerate Vigilante
+
+10. CrashInfo v1.2
+
+11. RunDLL32.exe Fix
+
+12. NoDEP
+
+13. RepairGTA build 5
+
+14. SCRLog v2020.3
+
+15. Open Limit Adjuster v1.5.9
+
+16. Fastman92 Limit Adjuster v7.6
+
+17. MixSets v4.3.8
+
+18. PortableGTA
+
+19. Improved Fastloader
+
+20. MoonLoader v026.5-beta
+
+
+
+Graphic Mods
+
+21. ReShade 6.2.0
+
+22. SA.Project2DFX v4.4
+
+23. SkyGfx Extended v1.7
+
+24. IMFX
+
+25. Real Skybox v1.3.4
+
+26. GraphicsTweaker v1.3
+
+27. SkyGrad
+
+28. Improved Streaming
+
+29. ColorMod v2
+
+30. Shadows Settings Extender v2.1.2
+
+31. Enhance ParticleTXD
+
+32. FxsFuncs v1.1b47
+
+33. NextGen and Combat FX Plus
+
+34. EffectLoader v1.1
+
+35. EffectsFolder
+
+36. Dynamic Shadow Color
+
+37. ECG – Enhanced Classic Graphics
+
+38. ENB Series Auto Toggle
+
+39. Enhanced Classic Graphics
+
+40. SAMP Graphic Restore
+
+41. VCParticles v1.0.1
+
+
+
+Timecyc
+
+42. 24h TimeCycle
+
+43. Real Linear Graphics v2.6
+
+44. Timecyc Cinematic v1.3
+
+45. Improved California Weather Timecyc v3.1
+
+46. Timecyc Cinematic v1.3
+
+47. Updated TimeCycle (24h TimeCycle)
+
+
+
+Textures
+
+48. Proper Fixes v1.3
+
+49. RoSA Evolved v1.4
+
+50. Original HQ Palms
+
+51. Revamped Vehicles Project
+
+52. Proper Vehicles Retex v2.1
+
+53. Proper Player Retex v2.0
+
+54. Proper Characters Retex v1.3
+
+55. Proper Weapons Retex v1.3
+
+56. Proper Vegetation Retex
+
+57. Proper HD Plants v1.1
+
+58. SA Cutscene Characters HD Ryder Fix
+
+59. HD Underwater v2.0
+
+60. LS Lit Church
+
+61. Candy Suxx Neon
+
+62. Remastered Pictures Mod v1.1
+
+63. SA Cutscene Characters for gameplay
+
+64. Original Peds Vary
+
+65. Animal Statues Remastered
+
+66. Vending Machines Remastered
+
+67. Improved Original Weapons
+
+68. Welcome Las Venturas Sign Remastered
+
+69. SA:Roads
+
+70. Roads of Los Santos v1.0
+
+71. AnimatedAC
+
+72. Santa Maria Pier Extended
+
+73. HD Basketball Court
+
+74. Los Santos Bridge The Prism
+
+75. Rockshore Bridge
+
+76. CJ Portrait Card Fix
+
+77. Lit Gant Bridge
+
+78. Shamal Interior Remaster
+
+
+
+Maps and Objects
+
+79. Tree House v1.1
+
+80. Wind Project v1.0.2
+
+81. Cyber ​​Cafe Interior
+
+82. Proper HD Models
+
+83. Wind Farm Mod
+
+84. SADE Big Ear Telescope to SA
+
+85. Improved Night Windows
+
+86. UFO Bar Lit v3
+
+87. HD Carls Home
+
+88. Beach Club Safehouse Fixed
+
+89. Sidewalk Weeds
+
+90. Walk Of Fame
+
+91. Eclipse Tower
+
+92. Missing Smokes Fix
+
+93. Missing Lampposts Fix
+
+94. Vice City Lighthouse
+
+95. MW Project
+
+96. HD Tags
+
+97. Remake Street Art
+
+98. Gloria Trevi Graffiti Restored
+
+99. Ufo Photos Fix
+
+100. Objectopia v1.4.0
+
+101. Parked Binary IPL Fixes
+
+102. Beta Definitive & Leftovers Map
+
+103. Beta Mulholland Safehouse
+
+104. Traincross Fix
+
+105. LV Planning Department Fix
+
+106. Project Immerse-Yourself v0.3
+
+107. Project reLIT v1.0.7
+
+108. Collision Interiors Fix
+
+109. Ped Attractor Chair Anim Fix
+
+110. Project Props v2.2
+
+111. Illuminated Vinewood Sign
+
+112. Improved Lamps v0.8
+
+113. Improved Dumpsters
+
+114. Functional Clock Townhall HD
+
+115. Improved and Fixed Original Vegetation
+
+116. More Doors In Interiors
+
+117. Lamppost Fix
+
+118. LS County General Hospital Interior
+
+119. Hospital With Interior
+
+120. Grass Fix
+
+121. Shadow Fixes
+
+122. Electrical
+
+123. Macaws Or Parrots In SA
+
+124. Lit Ocean Docks Bridge
+
+125. 2dfx Snack Vending Machine
+
+126. Improved Ammunation
+
+127. LaeJeffers10 Meshsmooth
+
+128. Grotti Showroom
+
+129. Beta Fence Smash
+
+
+
+Mods Scripts
+
+130. Urbanize Project v08-24
+
+131. Road Reflection Fix
+
+132. VehFuncs v2.4
+
+133. ImVehFt v2.1.1
+
+134. GPS Redux v1.3
+
+135. Cars On Dirt Roads
+
+136. Ladders Mod
+
+137. FPS Counter v1.1.1
+
+138. CamHunt
+
+139. Pay 'N' Spray Select Color
+
+140. Throw Rotate Fix v2.0
+
+141. Breakable Vending Machines v1.1
+
+142. Transparent Menu
+
+143. Peds Extender v1.1.4
+
+144. Restored Unused Peds v1.1.2
+
+145. PedFuncs v0.5.1
+
+146. Ped Tweaks
+
+147. Communication Repairers
+
+148. Garbage Mans v1.1
+
+149. Postman
+
+150. Gangs With Music
+
+151. Busy Pedestrians v2.1
+
+152. Street Cleaners v1.1
+
+153. Street Musicians v4.0
+
+154. Street Artists v1.1.1
+
+155. Total Peds
+
+156. Anyone Anywhere
+
+157. All Types Of Pedestrians In All Cities
+
+158. Crowds Of People
+
+159. Activation Of Unused/Hidden Pedestrians
+
+160. Park Car
+
+161. The Weapon Is On The Player
+
+162. Steering Wheel
+
+163. Shoot After Death
+
+164. Headlight Destroyer v1.1
+
+165. Ammunition Seller - Alternative
+
+166. Pickups Mod v1.1
+
+167. Rural Car Repairs v2.0
+
+168. Death Animations v1.1
+
+169. Rear Lights Mod v3.4
+
+170. Random Events With Drivers
+
+171. Diving Mod
+
+172. Arrest Like In GTA 4
+
+173. Time+Cops PayNSpray
+
+174. Rubbish like in GTA 4
+
+175 Garbage On The Roads Like In GTA 3/GTA VC v1.3
+
+176. Weapon Details v2.2
+
+177. Stealing A Car Like In GTA 4 v1.3
+
+178. Police Response To Traffic Violations v2.0
+
+179. Cops Bulletproof
+
+180. Cops Faster And Climbing
+
+181. Starting The Engine Like In GTA 4 v2.0
+
+182. Hide In The Car Like In GTA 5 v1.2
+
+183. AFK Animation In Car v1.4
+
+184. Animation In Transport As In GTA 4 v3.1
+
+185. Blur Effect For Stick/Bat/Katana v1.0
+
+186. Markers In Vice City Style v1.0
+
+187. Banners And Aircraft Tracks v1.0.1
+
+188. Fixed Mouse Flight
+
+189. Laser Sight v1.0.2
+
+190. Moving Moon v1.1
+
+191. Starry Skies v1.2.1
+
+192. Pager From GTA 3 v1.0
+
+193. Bullet Tracers From GTA Vice City And GTA III v1.1
+
+194. Corpses Are Outlined In Chalk v1.0
+
+195. Camera Shaking At High Speeds v1.1
+
+196. Parking Save Garages v1.0.5
+
+197. Fluffy Clouds v1.4
+
+198. Destructive Rhino Mod
+
+199. Insects Mod v1.1
+
+200. PedSkills v2.2
+
+201. Roadsign Font HD
+
+202. Emmet But Useful v1.1
+
+203. Achievements And Trophies System v2 Fixed
+
+204. Remove Brass Knuckles
+
+205. Body Stats Fix
+
+206. Heart Attack Mod
+
+207. Buy Property Mod v1.2.1
+
+208. Death In Car
+
+209. Car Crash Anim
+
+210. Improved Change Gear Anim v1.0
+
+211. Model Variations v9.5
+
+212. SFDP Heli Fix
+
+213. Skateboarding Mod
+
+214. Golf
+
+215. Animated Dog
+
+216. Inventory System v1.3
+
+217. More Radar Icons v2.0
+
+218. Restored Icons
+
+219. Earshot
+
+220. No Auto Pickups
+
+221. BobbleHeads Cheat
+
+222. Air Brake Sound v3
+
+223. Save Anywhere v2.01
+
+224. Vehicles With Trailers v4
+
+225. Barriers Are Backlit As In GTA VC v1.01
+
+226. Roadblocks Lights
+
+227. New Air Traffic Like In GTA VC (Fixed)
+
+228. Diesel 2.0
+
+229. Rampage/Fury Missions v2.0
+
+230. Adrenaline Capsules From GTA VC v2.0 Hidden Adrenaline Pickup
+
+231. Working Cranes Like In GTA 3 (Or GTA VC)
+
+232. Beach Ball v2.0
+
+233. basketball Fix
+
+234. Truck Sounds v2.0
+
+235. Working Radars At Airports (Airports Working Radars) As In GTA VC
+
+236. On/Off Engine And Headlights 2.0
+
+237. Extra Car Functions [ALPHA] v0.2
+
+238. Cars Driving To The Challenge
+
+239. Lean on the bike
+
+240. Quick Vehicle (III/VC/SA)
+
+241. BetterHeliCoronas
+
+242. Headset Radio and MP3 Player v2.1
+
+243. Stay On Bike [GTA VC / GTA SA]
+
+244. Auto Car Lock [GTA 3 / GTA VC / GTA SA]
+
+245. Unlock Car Door [GTA 3/ GTA VC/ GTA SA]
+
+246. Taxi77
+
+247. Taxi Ride Mod
+
+248. Ambient Taxi
+
+249. Improved Nitro System v1.4
+
+250. Radio Wheel v0.2 beta
+
+251. Snow On Screen v1.0
+
+252. Chat With Peds v1.0
+
+253. Tweaks v15
+
+254. Phone Mod 2
+
+255. Unlimited Camera Ammo
+
+256. Car Get Dirty Slower
+
+257. Jetpack Adjuster v1.1.0
+
+258. Improved Jetpack Control
+
+259. JetPack Hover Mode Fix
+
+260. Ped Spawn Creator v1.0.1
+
+261. Manual Firing v2.2.1
+
+262. Chainsaw Ammo Fuel
+
+263. Money Drop Fix
+
+264. Real Traffic Fix v2.2 beta
+
+265. CustomCrosshairs v2.0
+
+266. Quick Tune Mod
+
+267. AirForceWeapons
+
+268. Projectile Shoot
+
+269. 2 Player Deluxe v1.2
+
+270. Detach Trailer v1
+
+271. Leviathan v1.6
+
+272. Suicidal Photographers Fix
+
+273. Horn From The Tram And Train
+
+274. Stop Lights For Trailers
+
+275. Bikes Shop
+
+276. Fix Water Square
+
+277. ABS System
+
+278. Gear Control
+
+279. CamLock Timer
+
+280. Fix Helicopter Engine
+
+281. New Car Camera
+
+282. PerPixel Lighting Mod
+
+283. Muted Music Near Night Clubs 
+
+284. Invisible Car Fix 
+
+285. Radar Color Fix
+
+286. Trailer Lights v1
+
+287. Wang Cars
+
+288. Infinite Run
+
+289. HD Animated Blimp
+
+290. Rules Mod v1.2
+
+291. Damage Screen Blood
+
+292. Health Recovery And Blood Screen v4.3
+
+293. Random Wasted Text
+
+294. First Person Mod v3.0 Fixed / v3.5 Beta
+
+295. Collectibles on Radar v1.1
+
+296. Sprint Everywhere
+
+297. Glasses Color Overlay
+
+298. Weapon Icons TXD
+
+299. Rats Mod
+
+300. Custom Ammunation Mod v3.5
+
+301. CJ Look Interest
+
+302. GTA V Hud v0.944
+
+303. Crazy Trains
+
+304. Simple Free Cam v2.1.1
+
+305. No Aggressive Drivers
+
+306. Put Helmet Mod
+
+307. Helmet Mod v1.0
+
+308. Realistic Population
+
+309. Rain Extinguish Fire
+
+310. Illuminated Vinewood Sign
+
+311. Manual Driveby Remake
+
+312. HeliFix v1.5
+
+313. Hospital Health Pickups
+
+314. Fire On Driver
+
+315. Manual Mouse Shift Gears Mod v0.4
+
+316. Airplane Tire Skid v1.1
+
+317. Mod Ragdoll Bullet Physics
+
+318. Unpause Zone Name
+
+319. Full Radio Control v1.1.1
+
+320. ImprovedMove v0.2.1
+
+321. Combat Improvement And Melee Overhaul
+
+322. Friendly Triads And Los Aztecas Fix
+
+323. Alarm Touching Cars
+
+324. Pay Cops Mod
+
+325. Cruise Control
+
+326. Autodrive v2.5
+
+327. Stealth Kill Camera
+
+328. Restore Stealth Voices
+
+329. Trunk Store Weapons
+
+330. Boat Radar
+
+331. Weapon Disarm
+
+332. Bullet View
+
+333. Property Takeover
+
+334. Enterable Hidden Interiors v4.4
+
+335. No Radio Auto Change
+
+336. Give Money To Beggars
+
+337. Weather Forecast v1.2
+
+338. WeaponRecoilAuto v2.6
+
+339. Graffiti Anywhere v1.1
+
+340. Wagon Detach
+
+341. Longest Trains
+
+342. New Algorithm For Trains
+
+343. Anim Train v1.1
+
+344. NPC Tuning
+
+345. Wanted Radar Warning
+
+346. Oil Leaking v3.0
+
+347. Wheel Detach
+
+348. Car Crash Inertia v1.1.2
+
+349. Fair Police v2.0.2
+
+350. Fall Bike Ped Reaction
+
+351. Ped Fear Fix v2.0.2
+
+352. Aim Sensibility v2.0
+
+353. Dynamic FOV v1.1
+
+354. SACamFX
+
+355. No Wanted Levels In Prohibited Areas
+
+356. Player Move Head
+
+357. Radar Zoom
+
+358. Glowing Pickups v1.0.2
+
+359. Truck Trailer
+
+360. Traffic & Travel v2.7
+
+361. Trucks & Trailers
+
+362. Phone Improvements
+
+363. Interactive Phone Mod 2.0
+
+364. Handshake Mod
+
+365. Stress Test
+
+366. Car Wash v2.2
+
+367. Gang Rider v2
+
+368. Faster Clothes Changes
+
+369. Vigilante Special
+
+370. 20th Floor v2 Fixed
+
+371. Recruit More Members
+
+372. Planes Inertia
+
+373. Gravity Fix
+
+374. Peds Buy Food
+
+375. Gangster Crouch Fix
+
+376. Gangster Walk Fix
+
+377. Gangster Sit Fix
+
+378. Gangster SWAT Fix
+
+379. Car Dealership
+
+380. Homeless and Trash Bags
+
+381. Attach Vehicle
+
+382. Packer With Cars
+
+383. Peds Bleeding v1.1
+
+384. Realistic Beach v2.6
+
+385. Normal Map Plugin v1.01
+
+386. Release Trailer
+
+387. Arrange cars like in Mafia 2 v1.3
+
+388. Fuel leak
+
+389. Plane Explode Fix
+
+390. Vehicles On Train Platforms
+
+391. Exhaust Tweaker v1.1
+
+392. Functional Fire Ladder
+
+393. Lamppost Insects
+
+394. Do Not Uncouple The Trailer
+
+395. Mod Cement
+
+396. Fix Car Fire In Water v1.0.2
+
+397. Fix People Fighting With Cops
+
+398. Vehicle Immunities v1.1
+
+399. Car Explodes In Huge Falls
+
+400. Worn Brake Pad Sound v2.5.1
+
+401. Railroad Switch
+
+402. Teargas Fix
+
+403. Horn Anim
+
+404. Countdown At Traffic Lights
+
+405. Reload Mod
+
+406. Hands Up Fix
+
+407. Hit The Entity Fix
+
+408. Color Effect On Screen When Taking Damage
+
+409. Reverse Beep
+
+410. The Birds Update
+
+411. Release Trailer
+
+412. Save License Plate
+
+413. Drug Dealer Fix
+
+414. Original Drug Dealers
+
+415. CJ Complains About Cars
+
+416. Looking For Things In Garbage Bags
+
+417. Luxury Cars Attract The Attention Of Pedestrians
+
+418. Radio Off On Water
+
+419. SAAS
+
+420. Handbrake Mod
+
+421. Ped Money Tweaker
+
+422. Securicar Drop Money
+
+423. Ped Fire Fix v1.1
+
+424. Fireman Fireproof Fix
+
+425. Peds Are Scared By RPG
+
+426. Open Doors
+
+427. Open Trunk And Hood v1.6
+
+428. Parked Car Maker
+
+429. Star For Red
+
+430. Fix Bike Transfender Glitch
+
+431. Show Date
+
+432. Bike Flip Fix
+
+433. Fixed Cam
+
+434. Change Gear Anim v3.2
+
+435. Car Crash Look
+
+436. Food Eating Fix v1.2
+
+437. Rusty Brown's Ring Donuts Overhaul
+
+438. Ped Dead Float Fix
+
+439. Panic Face
+
+440. SA Speedometer 
+
+441. Speedometer v2.0
+
+442. Minimalist Speedometer
+
+443. Speedo2077
+
+444. Night Speedometer para SpeedoSA
+
+445. NPC Lowrider
+
+446. Galo Cinza
+
+447. Car idle
+
+448. Rain Audio Fix
+
+449. Music Bass Light
+
+450. Universal Vehicle Lights v1.1
+
+451. Hard Rain Remake
+
+452. Auto Remove Marker
+
+453. Rain Chance v1.1
+
+454. Fix Seville Parked Car
+
+455. Vehicle Collision Shake
+
+456. IndieVehicles
+
+457. Recruit LSPD Ped
+
+458. Real Time
+
+459. Dynamic Weapon Draw Sound v2.5
+
+460. Burned Peds
+
+461. Cold Steam
+
+462. PedsDontDrown
+
+463. Star For Attacking Dead Ped
+
+464. Lighthouse & Pyramid Fix
+
+465. Drug Dealers Drop Drugs
+
+466. Shoreline Waves
+
+467. Water Hurt
+
+468. Town & Zone Texts
+
+469. Engine Off On Vehicle Exit
+
+470. Skate Mod Remake
+
+471. ModelExtras v1.6
+
+472. Quick Weapon Draw v2.3
+
+473. Call Tow Truck
+
+474. Fix VehCam
+
+475. MoneyFix v1.1.0
+
+476. Fix Vision
+
+477. Fix Npc
+
+478. Clearing game memory
+
+479. Unregulated Intersections
+
+480. GTA V to SA: Burnout RRMS Edition
+
+481. Stowaway Mission Weapons Fix
+
+482. Open Door Anim v1.2.1
+
+483. Extra Colors On Paintjob Fix
+
+484. Improved Lamppost Lights v3
+
+485. Black Road Fix
+
+486. Unique Speedometer
+
+487. Trailers Lights Fix
+
+488. Ovens Catch On Fire
+
+489. Dealer Fix
+
+490. Car Air Reaction
+
+491. HFYBE Boobs Fix
+
+492. Asset Autocollector
+
+493. Cursing While Honking v1
+
+494. Searchlights In Area 69
+
+495. Gangs Guns Variations v1.1
+
+496. SkatePopSound
+
+497. Skate Extra Sounds
+
+498. Dyom Сleo Fix
+
+499. Void Radio Wheel v0.3
+
+500. Bike Lean
+
+501. Bike Lean Custom
+
+502. Quad Lean
+
+503. SAFighting Extended
+
+504. Sniper Realism
+
+505. Fuel System v0.6
+
+506. DYOM Gangs Addon
+
+507. Peds use Vending v2.0
+
+508. Random Train Drivers
+
+509. Faster animation of sellers
+
+510. Revamped Peds.ide
+
+511. Street Art Rework
+
+512. Void Weapon Wheel v0.5
+
+513. VoidRadioWheel v0.4
+
+514. Fix Plane Speed After Explodes
+
+515. Air Traffic Pro v6
+
+516. Rainbow With All The Colors v1.0
+
+517. CarCrashCameraEffect
+
+518. Light Destroyer
+
+519. CoverMod v1.3
+
+520. Spider Man Mod
+
+521. SA Homies Mod
+
+522. Damage Mark
+
+523. Improved Barber
+
+524. Inventory System Body Armour
+
+525. Quick Map
+
+526. Bike Customization & Nitro v1.1
+
+527. Gasoline Mod v2.2
+
+528. Gifted Rides New Parked Vehicles v1.1
+
+529. Wanted Music
+
+530. Helicopter Traffic
+
+531. Weapon Dealer v0.2
+
+532. Security Van Heist
+
+533. Devil Town Gang
+
+534. Dynamic Motorway Traffic
+
+535. Random Events Project
+
+536. Siren And Vigilante v1.2
+
+537. Grove Vs Ballas Fight
+
+538. 1 Star Motorbike Cop Fix
+
+539. Modernized DriveBy v1.3
+
+540. Carcols Fix
+
+541. Carcols Update
+
+542. Grove In Ganton v2.6
+
+543. Rain Mods
+
+544. Speedo2077
+
+545. High Noon Fix
+
+546. Mod suck rolls for 50 stories
+
+547. Improved Garages
+
+548. Sniper Scope v2
+
+549. Commercial Mod
+
+550. Camera Settings
+
+551. Ryder Cutscene Fix
+
+552. Big Smoke, Sweet & Kendl Cutscene Fix
+
+553. Drop Weapons Like In GTA IV v2.0
+
+554. Plane beep
+
+555. Weapon Pickup
+
+556. SkidBlow v1.1
+
+557. Improved Club
+
+558. SA Sonic Adventure 2
+
+559. Hats for Peds v1.0
+
+560. Engine Overheat v1.2.1
+
+561. Autosave & Checkpoint
+
+562. Real Life Vehicle Options
+
+563. GTA V Sniper Vision
+
+564. WeaponTweaks v1.4
+
+565. Cop vehicle coronas
+
+566. Drug Dealer's Weapons
+
+567. Audio Remaster SACSFX 2K22
+
+568. Open Door Signal in Vehicles
+
+569. Music Radio From Cars
+
+570. Manual Driveby Refixed
+
+571. No Rhino
+
+572. Kill Cam
+
+573. Peds Resist Headshot
+
+574. Weapon dat Professional Killer
+
+575. Car Door Chime-Beep
+
+576. Tunnel Car Echo Sound Effect
+
+577. DriveByOnOff
+
+578. DrIVe Mod
+
+579. Fires & flames
+
+580. Sleep
+
+581. Original Radio Extender
+
+582. Busy Pedestrians (Peds Events Project) 
+
+583. Light on bullet impact
+
+584. SA switch weapon v1.1
+
+585. Ciggy & Antenna
+
+586. SawnOff Dual Wield Fix
+
+587. Money Messages v1.1
+
+
+
+
+Lua
+
+588. Colored ENEX Markers v2.0
+
+589. Bike Spin
+
+
+
+Animations
+
+590. Animation Fix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
