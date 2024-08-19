@@ -1062,7 +1062,7 @@ Mods Scripts
 
 521. SA Homies Mod
 
-522. Damage Mark
+522. Damage mark on the screen
 
 523. Improved Barber
 
