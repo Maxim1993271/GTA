@@ -1196,20 +1196,24 @@ Mods Scripts
 
 588. Wheel bump sound v1.0
 
+589. Car+Prop Collision Light
+
+590. Sawn Off Dual Wield Fix v1.1
+
 
 
 
 Lua
 
-589. Colored ENEX Markers v2.0
+591. Colored ENEX Markers v2.0
 
-590. Bike Spin
+592. Bike Spin
 
 
 
 Animations
 
-591. Animation Fix
+593. Animation Fix
 
 
 
