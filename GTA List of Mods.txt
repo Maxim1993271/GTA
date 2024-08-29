@@ -1028,7 +1028,7 @@ Mods Scripts
 
 504. Sniper Realism
 
-505. Fuel System v0.6
+505. Fuel System v0.7
 
 506. DYOM Gangs Addon
 
