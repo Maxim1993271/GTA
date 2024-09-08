@@ -1210,21 +1210,22 @@ Mods Scripts
 
 595. VCS&LCS Side Missions
 
+596. Create Pickups Mod
+
 
 
 
 Lua
 
-596. Colored ENEX Markers v2.0
+597. Colored ENEX Markers v2.0
 
-597. Bike Spin
+598. Bike Spin
 
 
 
 Animations
 
-598. Animation Fix
-
+599. Animation Fix
 
 
 
