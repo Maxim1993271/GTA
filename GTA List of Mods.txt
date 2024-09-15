@@ -1212,24 +1212,26 @@ Mods Scripts
 
 596. Create Pickups Mod
 
-597.Wheel Cam from VC
+597.Wheel Cam from VC v1.0
 
 598. NoRadio
+
+599. Lights On The Ground From Sirens v1.0
 
 
 
 
 Lua
 
-599. Colored ENEX Markers v2.0
+600. Colored ENEX Markers v2.0
 
-600. Bike Spin
+601. Bike Spin
 
 
 
 Animations
 
-601. Animation Fix
+602. Animation Fix
 
 
 
