@@ -1218,20 +1218,24 @@ Mods Scripts
 
 599. Moving Siren Lights v1.0
 
+600. Police Searching
+
+601. Garbage Truck Driver
+
 
 
 
 Lua
 
-600. Colored ENEX Markers v2.0
+602. Colored ENEX Markers v2.0
 
-601. Bike Spin
+603. Bike Spin
 
 
 
 Animations
 
-602. Animation Fix
+604. Animation Fix
 
 
 
