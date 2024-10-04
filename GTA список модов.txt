@@ -1234,20 +1234,22 @@ Mods Scripts
 
 607. ImVehSys v1.3
 
+608. Fuel +
+
 
 
 
 Lua
 
-608. Colored ENEX Markers v2.0
+609. Colored ENEX Markers v2.0
 
-609. Bike Spin
+610. Bike Spin
 
 
 
 Animations
 
-610. Animation Fix
+611. Animation Fix
 
 
 
