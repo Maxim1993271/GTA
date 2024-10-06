@@ -1234,7 +1234,7 @@ Mods Scripts
 
 607. ImVehSys v1.3
 
-608. Fuel +
+608. Fuel + v1.1
 
 609. Engine Volume
 
