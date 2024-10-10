@@ -1240,20 +1240,21 @@ Mods Scripts
 
 610. Instakill
 
+611. Spray Can Stunlock Fix
+
 
 
 Lua
 
-611. Colored ENEX Markers v2.0
+612. Colored ENEX Markers v2.0
 
-612. Bike Spin
+613. Bike Spin
 
 
 
 Animations
 
-613. Animation Fix
-
+614. Animation Fix
 
 
 
