@@ -1164,7 +1164,7 @@ Mods Scripts
 
 572. No Rhino
 
-573. Kill Cam
+573. Kill Cam v1.1
 
 574. Peds Resist Headshot
 
@@ -1242,7 +1242,7 @@ Mods Scripts
 
 611. Spray Can Stunlock Fix
 
-612. Unflip Your Cars Like in GTA V v4
+612. Unflip Your Cars Like in GTA V v5
 
 
 
