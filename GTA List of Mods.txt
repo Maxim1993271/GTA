@@ -1244,19 +1244,25 @@ Mods Scripts
 
 612. Unflip Your Cars Like in GTA V v5
 
+613. Advanced Aiming Mod v1.4
+
+614. Hide Radar While Aiming
+
+615. Hide Zone and Vehicle Displays
+
 
 
 Lua
 
-613. Colored ENEX Markers v2.0
+616. Colored ENEX Markers v2.0
 
-614. Bike Spin
+617. Bike Spin
 
 
 
 Animations
 
-615. Animation Fix
+618. Animation Fix
 
 
 
