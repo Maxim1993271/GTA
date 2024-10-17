@@ -1252,19 +1252,23 @@ Mods Scripts
 
 616. Aimless Mode v1
 
+617. Traffic Path Fix
+
+618. Palisades Park Pedestrian Path Fix
+
 
 
 Lua
 
-617. Colored ENEX Markers v2.0
+619. Colored ENEX Markers v2.0
 
-618. Bike Spin
+620. Bike Spin
 
 
 
 Animations
 
-619. Animation Fix
+621. Animation Fix
 
 
 
