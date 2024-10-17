@@ -1250,20 +1250,21 @@ Mods Scripts
 
 615. Hide Zone and Vehicle Displays
 
+616. Aimless Mode v1
+
 
 
 Lua
 
-616. Colored ENEX Markers v2.0
+617. Colored ENEX Markers v2.0
 
-617. Bike Spin
+618. Bike Spin
 
 
 
 Animations
 
-618. Animation Fix
-
+619. Animation Fix
 
 
 
