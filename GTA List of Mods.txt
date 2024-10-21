@@ -1044,7 +1044,7 @@ Mods Scripts
 
 512. Street Art Rework
 
-513. Void Weapon Wheel v0.5
+513. Void Weapon Wheel v1.3
 
 514. VoidRadioWheel v0.6
 
@@ -1256,19 +1256,21 @@ Mods Scripts
 
 618. Palisades Park Pedestrian Path Fix
 
+619. Doherty Garage
+
 
 
 Lua
 
-619. Colored ENEX Markers v2.0
+620. Colored ENEX Markers v2.0
 
-620. Bike Spin
+621. Bike Spin
 
 
 
 Animations
 
-621. Animation Fix
+622. Animation Fix
 
 
 
