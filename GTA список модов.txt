@@ -1,4 +1,4 @@
-Essentials Pack
+Essentials Pack 
 
 01. Ultimate ASI Loader v7.7.0
 
@@ -1030,7 +1030,7 @@ Mods Scripts
 
 505. Sniper Realism
 
-506. Fuel System v0.7
+506. Fuel System v0.8
 
 507. DYOM Gangs Addon
 
