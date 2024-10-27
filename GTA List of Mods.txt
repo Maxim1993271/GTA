@@ -2,7 +2,7 @@ Essentials Pack
 
 01. Ultimate ASI Loader v7.7.0
 
-02. CLEO v5.0
+02. CLEO v4.4.4
 
 03. CLEO+ v1.2.0
 
@@ -106,7 +106,7 @@ Timecyc
 
 Textures
 
-48. Proper Fixes v1.3
+48. Proper Fixes v1.4
 
 49. RoSA Evolved v1.4
 
@@ -368,7 +368,7 @@ Mods Scripts
 
 174. Rubbish like in GTA 4
 
-175 Garbage On The Roads Like In GTA 3/GTA VC v1.3
+175. Garbage On The Roads Like In GTA 3/GTA VC v1.3
 
 176. Weapon Detaills v2.2
 
@@ -440,7 +440,7 @@ Mods Scripts
 
 210. Improved Change Gear Anim v1.0
 
-211. Model Variations v9.6
+211. Model Variations v9.7
 
 212. SFDP Heli Fix
 
@@ -486,7 +486,7 @@ Mods Scripts
 
 233. Beach Ball v2.0
 
-234. basketball Fix
+234. Basketball Fix
 
 235. Truck Sounds v2.0
 
