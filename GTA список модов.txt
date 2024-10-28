@@ -1262,20 +1262,21 @@ Mods Scripts
 
 621. Burnout 360 Fix
 
+622. Lighted barriers
+
 
 
 Lua
 
-622. Colored ENEX Markers v2.0
+623. Colored ENEX Markers v2.0
 
-623. Bike Spin
+624. Bike Spin
 
 
 
 Animations
 
-624. Animation Fix
-
+625. Animation Fix
 
 
 
