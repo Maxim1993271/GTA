@@ -10,7 +10,7 @@ Essentials Pack
 
 05. ModLoader v0.3.7
 
-06. SilentPatch
+06. SilentPatch v1.1
 
 07. Widescreen Fix
 
@@ -32,7 +32,7 @@ Essentials Pack
 
 16. Fastman92 Limit Adjuster v7.6
 
-17. MixSets v4.3.8
+17. MixSets v4.3.7
 
 18. PortableGTA
 
@@ -278,7 +278,7 @@ Maps and Objects
 
 Mods Scripts
 
-130. Urbanize Project v10-24
+130. Urbanize Project v11-24
 
 131. Road Reflection Fix
 
