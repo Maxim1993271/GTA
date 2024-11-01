@@ -1264,19 +1264,21 @@ Mods Scripts
 
 622. Lighted barriers
 
+623. Hitscan Sniper
+
 
 
 Lua
 
-623. Colored ENEX Markers v2.0
+624. Colored ENEX Markers v2.0
 
-624. Bike Spin
+625. Bike Spin
 
 
 
 Animations
 
-625. Animation Fix
+626. Animation Fix
 
 
 
