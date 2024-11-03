@@ -1266,19 +1266,23 @@ Mods Scripts
 
 623. Hitscan Sniper
 
+624. Vehicle Flags Changer
+
+625. SmarterCopDecisions
+
 
 
 Lua
 
-624. Colored ENEX Markers v2.0
+626. Colored ENEX Markers v2.0
 
-625. Bike Spin
+627. Bike Spin
 
 
 
 Animations
 
-626. Animation Fix
+628. Animation Fix
 
 
 
