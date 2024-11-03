@@ -1256,7 +1256,7 @@ Mods Scripts
 
 618. Palisades Park Pedestrian Path Fix
 
-619. Doherty Garage v1.2
+619. Doherty Garage v1.3
 
 620. Backfire with light
 
