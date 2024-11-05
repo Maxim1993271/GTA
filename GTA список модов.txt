@@ -1270,20 +1270,21 @@ Mods Scripts
 
 625. SmarterCopDecisions
 
+626. Peds jump at shot
+
 
 
 Lua
 
-626. Colored ENEX Markers v2.0
+627. Colored ENEX Markers v2.0
 
-627. Bike Spin
+628. Bike Spin
 
 
 
 Animations
 
-628. Animation Fix
-
+629. Animation Fix
 
 
 
