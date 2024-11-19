@@ -1266,7 +1266,7 @@ Mods Scripts
 
 623. Hitscan Sniper
 
-624. Vehicle Flags Changer
+624. Vehicle Flags Changer v1.1
 
 625. SmarterCopDecisions
 
