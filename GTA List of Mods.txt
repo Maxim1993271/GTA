@@ -1284,19 +1284,21 @@ Mods Scripts
 
 632. News papers
 
+633. Manhunt Sneak Kills v2.0
+
 
 
 Lua
 
-633. Colored ENEX Markers v2.0
+634. Colored ENEX Markers v2.0
 
-634. Bike Spin
+635. Bike Spin
 
 
 
 Animations
 
-635. Animation Fix
+636. Animation Fix
 
 
 
