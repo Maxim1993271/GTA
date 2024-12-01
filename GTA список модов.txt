@@ -784,7 +784,7 @@ Mods Scripts
 
 382. Attach Vehicle
 
-383. Packer With Cars
+383. Attach Vehicles to Packer
 
 384. Peds Bleeding v1.1
 
