@@ -370,7 +370,7 @@ Mods Scripts
 
 175. Garbage On The Roads Like In GTA 3/GTA VC v1.3
 
-176. Weapon Detaills v2.6
+176. Weapon Detaills v3.0
 
 177. Stealing A Car Like In GTA 4 v1.3
 
@@ -1282,7 +1282,7 @@ Mods Scripts
 
 631. Exit from the other side
 
-632. News papers
+632. News Paper v2.0
 
 633. Manhunt Sneak Kills v2.0
 
