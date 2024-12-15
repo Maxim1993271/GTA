@@ -1184,7 +1184,7 @@ Mods Scripts
 
 582. Original Radio Extender
 
-583. Busy Pedestrians (Peds Events Project) 
+583. Busy Pedestrians (Peds Events Project) v15.12.2024
 
 584. Light on bullet impact
 
