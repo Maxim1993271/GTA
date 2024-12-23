@@ -1138,7 +1138,7 @@ Mods Scripts
 
 559. SA Sonic Adventure 2
 
-560. Hats for Peds v1.0
+560. Hats for Peds v1.0 + Winter Edition
 
 561. Engine Overheat v1.2.1
 
@@ -1292,34 +1292,36 @@ Mods Scripts
 
 636. MapFix
 
-637.No Extra Air Resistance
+637. No Extra Air Resistance
 
-638.007car
+638. 007car
 
-639.Interior and Peds
+639. Interior and Peds
 
-640.Swat Pos
+640. Swat Pos
 
-641.Store Expulsion v1.0
+641. Store Expulsion v1.0
 
-642.Planning Department v1.0
+642. Planning Department v1.0
 
-643.EchoWeapons
+643. EchoWeapons
 
-644.Helicopter Plane Traffic
+644. Helicopter Plane Traffic
+
+645. Radio Effects v1.0
 
 
 
 Lua
 
-645. Colored ENEX Markers v2.0
+646. Colored ENEX Markers v2.0
 
-646. Bike Spin
+647. Bike Spin
 
 
 
 Animations
 
-647. Animation Fix
+648. Animation Fix
 
 
