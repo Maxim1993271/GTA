@@ -452,11 +452,11 @@ Mods Scripts
 
 216. Inventory System v1.3
 
-217. More Radar Icons v 2.1
+217. More Radar Icons v2.0
 
-218. More Radar Icons v2.0
+218. More Radar Icons v2.1
 
-219. More Radar Icons 2.4
+219. More Radar Icons v2.4
 
 220. Restored Icons
 
