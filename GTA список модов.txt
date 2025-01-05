@@ -1166,7 +1166,7 @@ Mods Scripts
 
 573. No Rhino
 
-574. Kill Cam v1.1
+574. Kill Cam v1.4
 
 575. Peds Resist Headshot
 
