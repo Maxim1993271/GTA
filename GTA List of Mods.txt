@@ -1330,20 +1330,22 @@ Mods Scripts
 
 655. Fixed dialogues with gangs
 
+656. Hit Scan Sniper
+
 
 
 
 Lua
 
-656. Colored ENEX Markers v2.0
+657. Colored ENEX Markers v2.0
 
-657. Bike Spin
+658. Bike Spin
 
 
 
 Animations
 
-658. Animation Fix
+659. Animation Fix
 
 
 
