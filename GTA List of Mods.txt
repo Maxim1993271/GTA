@@ -1124,7 +1124,7 @@ Mods Scripts
 
 555. Big Smoke, Sweet & Kendl Cutscene Fix
 
-556. Drop Weapons Like In GTA IV v2.0
+556. Drop Weapons Like In GTA IV v3.0
 
 557. Plane beep
 
