@@ -1068,7 +1068,7 @@ Mods Scripts
 
 527. Inventory System Body Armour
 
-528. Quick Map
+528. Quick Map v29.05.2024
 
 529. Bike Customization & Nitro v1.1
 
@@ -1182,7 +1182,7 @@ Mods Scripts
 
 584. Original Radio Extender
 
-585. Busy Pedestrians (Peds Events Project) v15.12.2024 
+585. Busy Pedestrians (Peds Events Project) v10.01.2025 
 
 586. Light on bullet impact
 
