@@ -138,7 +138,7 @@ Textures
 
 63. SA Cutscene Characters for gameplay
 
-64. Original Peds Vary
+64. Original Peds Vary Extended (Fixed)
 
 65. Animal Statues Remastered
 
