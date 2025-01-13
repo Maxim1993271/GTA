@@ -354,7 +354,7 @@ Mods Scripts
 
 167. Rural Car Repairs v2.0
 
-168. Death Animations v1.1
+168. DeathAnimsMod v2.0 (13.01.2025)
 
 169. Rear Lights Mod v3.4
 
