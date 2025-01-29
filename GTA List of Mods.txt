@@ -1338,18 +1338,20 @@ Mods Scripts
 
 662. Pills Bottle
 
+663. CJ Startup Clothes
+
 
 Lua
 
-663. Colored ENEX Markers v2.0
+664. Colored ENEX Markers v2.0
 
-664. Bike Spin
+665. Bike Spin
 
 
 
 Animations
 
-665. Animation Fix
+666. Animation Fix
 
 
 
