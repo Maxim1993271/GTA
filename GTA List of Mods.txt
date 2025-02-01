@@ -1340,18 +1340,20 @@ Mods Scripts
 
 663. CJ Startup Settings
 
+664. SA Styled Speedometer
+
 
 Lua
 
-664. Colored ENEX Markers v2.0
+665. Colored ENEX Markers v2.0
 
-665. Bike Spin
+666. Bike Spin
 
 
 
 Animations
 
-666. Animation Fix
+667. Animation Fix
 
 
 
