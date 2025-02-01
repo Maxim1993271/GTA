@@ -1338,7 +1338,7 @@ Mods Scripts
 
 662. Pills Bottle
 
-663. CJ Startup Clothes
+663. CJ Startup Settings
 
 
 Lua
