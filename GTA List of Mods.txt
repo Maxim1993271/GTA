@@ -356,7 +356,7 @@ Mods Scripts
 
 168. DeathAnimsMod v2.0 (13.01.2025)
 
-169. Rear Lights Mod v3.4
+169. Rear Lights Mod v3.4 01.02.2025
 
 170. Random Events With Drivers
 
@@ -1072,7 +1072,7 @@ Mods Scripts
 
 529. Bike Customization & Nitro v1.1
 
-530. Gasoline Mod v2.4
+530. Gasoline Mod v2.5
 
 531. Gifted Rides New Parked Vehicles v1.1
 
@@ -1162,7 +1162,7 @@ Mods Scripts
 
 574. No Rhino
 
-575. Kill Cam v1.4
+575. Kill Cam v1.5
 
 576. Peds Resist Headshot
 
@@ -1334,7 +1334,7 @@ Mods Scripts
 
 660. Assaltar pedestres com uma arma
 
-661. The holster on the cops
+661. The holster on the cops v1.1
 
 662. Pills Bottle
 
