@@ -1290,7 +1290,7 @@ Mods Scripts
 
 638. MapFix
 
-639. No Extra Air Resistance
+639. No Extra Air Resistance v1.1
 
 640. 007car
 
