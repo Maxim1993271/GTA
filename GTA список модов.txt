@@ -1348,18 +1348,20 @@ Mods Scripts
 
 667. Grenade mod
 
+668. Disable jetpack heat effect
+
 
 Lua
 
-668. Colored ENEX Markers v2.0
+669. Colored ENEX Markers v2.0
 
-669. Bike Spin
+670. Bike Spin
 
 
 
 Animations
 
-670. Animation Fix
+671. Animation Fix
 
 
 
