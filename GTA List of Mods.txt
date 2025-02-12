@@ -116,7 +116,7 @@ Textures
 
 52. Proper Vehicles Retex v2.1
 
-53. Proper Player Retex v2.0
+53. Proper Player Retex v3
 
 54. Proper Characters Retex v1.3
 
