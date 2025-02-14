@@ -1352,7 +1352,7 @@ Mods Scripts
 
 669. Split Screen for 2 Player Mode v1.2
 
-670. Cop Radar
+670. Cop N Threat Radar
 
 671. Helicopter in the sky
 
