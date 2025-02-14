@@ -1356,18 +1356,20 @@ Mods Scripts
 
 671. Helicopter in the sky
 
+672. Story Mode 2.0 Bug Fixes
+
 
 Lua
 
-672. Colored ENEX Markers v2.0
+673. Colored ENEX Markers v2.0
 
-673. Bike Spin
+674. Bike Spin
 
 
 
 Animations
 
-674. Animation Fix
+675. Animation Fix
 
 
 
