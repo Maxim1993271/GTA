@@ -1344,7 +1344,7 @@ Mods Scripts
 
 665. Ballas Greet You
 
-666. Weapon Zoom Unlimited
+666. Weapon Zoom Unlimited Update v.25.02.15
 
 667. Grenade mod
 
