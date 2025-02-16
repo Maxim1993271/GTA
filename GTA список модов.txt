@@ -686,7 +686,7 @@ Mods Scripts
 
 334. Property Takeover
 
-335. Enterable Hidden Interiors v4.4
+335. Enterable Hidden Interiors Update v16/2/2025
 
 336. No Radio Auto Change
 
