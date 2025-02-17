@@ -440,7 +440,7 @@ Mods Scripts
 
 210. Improved Change Gear Anim v1.0
 
-211. Model Variations v9.8
+211. Model Variations v9.9
 
 212. SFDP Heli Fix
 
@@ -1346,7 +1346,7 @@ Mods Scripts
 
 666. Weapon Zoom Unlimited Update v.25.02.15
 
-667. Grenade mod
+667. Grenade mod Update v17.02.2005
 
 668. Disable jetpack heat effect
 
