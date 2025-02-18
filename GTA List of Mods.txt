@@ -1358,18 +1358,20 @@ Mods Scripts
 
 672. Story Mode 2.0 Bug Fixes
 
+673. Lock Car Doors
+
 
 Lua
 
-673. Colored ENEX Markers v2.0
+674. Colored ENEX Markers v2.0
 
-674. Bike Spin
+675. Bike Spin
 
 
 
 Animations
 
-675. Animation Fix
+676. Animation Fix
 
 
 
