@@ -1370,7 +1370,7 @@ Mods Scripts
 
 678. Hood Fellas Greeting You
 
-679. HealthBarColor
+679. Changeable health bar colors (depending on health %)
 
 
 Lua
