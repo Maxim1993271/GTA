@@ -524,7 +524,7 @@ Mods Scripts
 
 252. Chat With Peds v1.0
 
-253. TweaksV v50
+253. TweaksV v55
 
 254. Phone Mod 2
 
