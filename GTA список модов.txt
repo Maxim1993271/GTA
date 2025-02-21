@@ -1372,18 +1372,20 @@ Mods Scripts
 
 679. Changeable health bar colors (depending on health %)
 
+680. Cheat Menu v3.52 
+
 
 Lua
 
-680. Colored ENEX Markers v2.0
+681. Colored ENEX Markers v2.0
 
-681. Bike Spin
+682. Bike Spin
 
 
 
 Animations
 
-682. Animation Fix
+683. Animation Fix
 
 
 
