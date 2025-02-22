@@ -1266,7 +1266,7 @@ Mods Scripts
 
 626. Vehicle Flags Changer v1.1
 
-627. SmarterCopDecisions
+627. Smarter Cop Decisions
 
 628. Peds jump at shot
 
