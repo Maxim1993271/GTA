@@ -44,7 +44,7 @@ Essentials Pack
 
 Graphic Mods
 
-21. ReShade 6.3.3
+21. ReShade 6.4.0
 
 22. SA.Project2DFX v4.4
 
