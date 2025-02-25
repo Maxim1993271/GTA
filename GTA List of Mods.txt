@@ -1378,18 +1378,20 @@ Mods Scripts
 
 682. VC Plane Trails And Banners
 
+683. HUD Colors
+
 
 Lua
 
-683. Colored ENEX Markers v2.0
+684. Colored ENEX Markers v2.0
 
-684. Bike Spin
+685. Bike Spin
 
 
 
 Animations
 
-685. Animation Fix
+686. Animation Fix
 
 
 
