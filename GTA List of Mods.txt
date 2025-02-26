@@ -1382,18 +1382,20 @@ Mods Scripts
 
 684. Weapon Pickup Maker
 
+685. RZL-Trainer
+
 
 Lua
 
-685. Colored ENEX Markers v2.0
+686. Colored ENEX Markers v2.0
 
-686. Bike Spin
+687. Bike Spin
 
 
 
 Animations
 
-687. Animation Fix
+688. Animation Fix
 
 
 
