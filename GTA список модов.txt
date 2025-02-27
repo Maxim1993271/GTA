@@ -1384,17 +1384,18 @@ Mods Scripts
 
 685. RZL-Trainer
 
+686. Gang Weapons Unlimited Randomizer (beta)
+
 
 Lua
 
-686. Colored ENEX Markers v2.0
+687. Colored ENEX Markers v2.0
 
-687. Bike Spin
+688. Bike Spin
 
 
 
 Animations
 
-688. Animation Fix
-
+689. Animation Fix
 
