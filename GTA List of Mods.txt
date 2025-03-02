@@ -211,6 +211,7 @@ IndieVehicles
 Invisible Car Fix
 Lean On The Bike
 Lock Car Doors
+Luxury Cars Attract The Attention Of Pedestrians
 Manual Driveby Refixed
 Manual DriveBy Remake
 Mid Air Car Control
@@ -413,7 +414,6 @@ Light Destroyer
 Lighted barriers
 Lighthouse & Pyramid Fix
 Long Trains
-Luxury Cars Attract The Attention Of Pedestrians
 Manhunt Sneak Kills
 Mod Suck Rolls For 50 Stories
 Modernized DriveBy
