@@ -535,7 +535,7 @@ Mobile Font Fixed v1.0.1
 NextGen and Combat FX Plus
 Project2DFX v4.4
 Real Skybox v1.3.4
-ReShade v6.4.0
+ReShade v6.4.1
 RGGSA2.0 ENB
 SA Mobile Hud v2.01.1
 Shadows Settings Extender v2.1.2
