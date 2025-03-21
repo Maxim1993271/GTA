@@ -205,6 +205,7 @@ Headlight Destroyer
 Helmet Mod
 Improved Change Gear Anim
 Improved Garages
+Improved Handling
 ImVehFt
 ImVehSys
 IndieVehicles
