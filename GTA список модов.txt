@@ -40,12 +40,14 @@ Asset Autocollector
 AutoID
 Beard Grow Mod
 Black Roads Fix
+Blur effect for club
 Blur Effect For Stick
-BodyOutlinesSA
+BodyOutlinesSA v1.0
 Bullethole
 Camera Point Fix
-CamShake
-Cheat Menu v3.52
+Camera shaking at high speeds v1.1
+Cheat Menu v3.
+Cigarette and Antenna
 ClassicHud
 Cold Steam
 Disable Radar On Foot
@@ -54,8 +56,9 @@ Explosions
 Explosionsshake
 Extended Gang Wars
 Fires & flames
+Fires and lights
 First Person Mod
-Fix Damage From Explosions Through Walls
+Fix Damage From Explosions Through Walls v1.0
 Fixed dialogues with gangs
 Fixed Mouse Flight
 FluffyClouds
@@ -65,7 +68,7 @@ Functional Components
 GInput
 Glowing Pickups
 Graffiti Anywhere
-GTA III Pager
+Pager from GTA 3 v1.0
 HeliFix
 Hud Definitive Edition
 III.VC.SA.SaveLoader v2.7
@@ -73,13 +76,14 @@ Improved Lamppost Lights
 ImprovedMove
 Inventory System
 JetPack Hover Mode Fix
-LaserScopeDotVC
+LaserScopeDotVC v1.0.2
 Light on bullet impact
 MapFix
 Mod Shell
 Model Variations
-Money Messages
-MovingMoonSA
+Money Messages v1.1
+MovingMoon v1.1
+MovingSirenLightsSA v1.1
 Multiplemarkers
 NoMoreDeletedSaves
 Open Door Anim
@@ -87,7 +91,7 @@ Pager
 Quebrar Motor
 Ragdoll Mod for GTA-SAMP
 Rain Extinguish Fire
-Rainbow With All the Colors
+Rainbow With All the Colors v1.0
 Real time
 ReverbSA
 Road Reflection Fix
@@ -99,19 +103,20 @@ Save License Plate
 Script Fixes
 Spread Fix
 SprintEverywhere
-Starry Skies
+Starry Skies v1.3.0
 Story Mode 2.0 Bug Fixes
 StreamMemFix
 The Birds Update
 VC Plane Trails And Banners
-VCBulletTrails
+VCBannersAndTrails v1.0.1
+VCBulletTrails v1.2
 VCMarkersSA
-VCParticles
+VCParticles v1.0.1
 VCStuffSA
 VHud
 Weapon Icons TXD
 WeaponRecoilRE
-Wheel Cam from VC
+Wheel Cam from VC v1.0
 
 
 
@@ -199,7 +204,7 @@ Full Radio Control
 Functional firefighter ladder
 Gasoline Mod
 Gear Control
-GPS Redux
+GPS Redux v1.4.6
 GTA V to SA Burnout RRMS Edition
 Handbrake Mod
 Headlight Destroyer
@@ -284,7 +289,7 @@ Vehicle Door Unlocker
 Vehicle Flags Changer
 Vehicle Immunities
 Voodoo Physics Fix
-Wheel bump sound
+Wheel bump sound v1.0
 Wheel Detach
 Winch Taking Cars
 Wind noise at high speeds
