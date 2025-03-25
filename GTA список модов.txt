@@ -610,6 +610,7 @@ Ped Attractor Chair Anim Fix
 Ped Dead Float Fix
 Ped Fear Fix
 Ped Fire Fix
+Ped Interior Light Fix v1.0
 Ped Money Tweaker
 Ped Run Fix
 Ped Spawn Creator
