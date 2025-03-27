@@ -40,7 +40,7 @@ Asset Autocollector
 AutoID
 Beard Grow Mod
 Black Roads Fix
-Blip Size v1.1
+Blip Size v1.2
 Blur effect for club
 Blur Effect For Stick
 BodyOutlinesSA v1.0
