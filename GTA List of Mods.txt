@@ -170,6 +170,7 @@ Car Mechanic Simulator
 Car Wash
 Carcols Fix
 CarCrashCameraEffect
+CarHP
 Cars Driving To The Challenge
 Cars On Dirt Roads
 Cars On Platforms
