@@ -463,6 +463,7 @@ Real Weapons Names
 Realistic Beach
 Realistic Weapons Settings
 Reload Mod
+Restore Original Mouse Sensibility
 Restore Stealth Voices
 Restored Icons
 Rubbish GTA 4
