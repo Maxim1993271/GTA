@@ -52,7 +52,7 @@ Cigarette and Antenna
 ClassicHud
 Cold Steam
 Disable Radar On Foot
-Enterable Hidden Interiors Update (30/03/25) 
+Enterable Hidden Interiors Update (31.03.25) 
 Explosions
 Explosionsshake
 Extended Gang Wars
