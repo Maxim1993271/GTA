@@ -409,7 +409,7 @@ Hospital Health Pickups
 HUD Colors
 Improved Barber
 Improved Club
-Improved Gangs War
+Improved Gangs War v1.1
 Improved Jetpack Control
 IndieVehHandlings
 Inmune Headshot
