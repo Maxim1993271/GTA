@@ -321,7 +321,7 @@ Ammunition Seller v2.1
 Anim Train
 Arrest Like In GTA 4
 Auto Remove Marker
-Autosave & Checkpoint
+Autosave & Checkpoint v1.1
 Ballas Greet You
 Ballas Pull Up On You
 Basketball Fix
