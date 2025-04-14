@@ -426,6 +426,7 @@ Lighted barriers
 Lighthouse & Pyramid Fix
 Long Trains
 Manhunt Sneak Kills
+MissionBalancingTool
 Mod Suck Rolls For 50 Stories
 Modernized DriveBy
 Money Drop Fix
