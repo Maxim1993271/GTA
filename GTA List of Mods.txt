@@ -470,7 +470,7 @@ Restored Icons
 Rubbish GTA 4
 Run
 Rusty Brown's Ring Donuts
-RZL-Trainer
+RZL-Trainer v5.0.0
 SA Homies Mod
 SA Sonic Adventure 2
 SA switch weapon
@@ -674,5 +674,5 @@ Updated TimeCycle (24h TimeCycle)
 Textures
 
 Proper Fixes v1.5
-RoSA Project Evolved - January
+RoSA Project Evolved - February
 Revamped Vehicle Project
