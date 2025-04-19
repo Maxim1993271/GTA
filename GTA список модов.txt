@@ -112,7 +112,7 @@ VC Plane Trails And Banners
 VCBannersAndTrails v1.0.1
 VCBulletTrails v1.2
 VCMarkersSA
-VCParticles v1.0.1
+VCParticles v1.0.2
 VCStuffSA
 VHud
 Weapon Icons TXD
