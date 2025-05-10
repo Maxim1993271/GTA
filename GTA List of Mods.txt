@@ -290,6 +290,7 @@ Vehicle Collision Shake
 Vehicle Door Unlocker
 Vehicle Flags Changer
 Vehicle Immunities
+Void Radio Wheel v0.6
 Voodoo Physics Fix
 Wheel bump sound v1.0
 Wheel Detach
@@ -519,8 +520,7 @@ Tiring Sounds
 TweaksVv70
 Unlimited Camera Ammo
 VCS&LCS Side Missions
-Void Weapon Wheel
-VoidRadioWheel
+Void Weapon Wheel v1.3
 Wagon Detach
 Walk Targeting Fix
 Wanted Music
