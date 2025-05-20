@@ -505,6 +505,7 @@ Spray Can Stunlock Fix
 Star For Red
 Stealth Kill Camera
 Store Expulsion
+Stories Sprinting Fix
 Stowaway Mission Weapons Fix
 Street Art
 Suicidal Photographers Fix
