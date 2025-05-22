@@ -428,7 +428,7 @@ Lighted barriers
 Lighthouse & Pyramid Fix
 Long Trains
 Manhunt Sneak Kills
-Mission Balancing Tool Update v.(25.04.18)
+Mission Balancing Tool Update v.25.05.22
 Mod Suck Rolls For 50 Stories
 Modernized DriveBy
 Money Drop Fix
@@ -533,7 +533,7 @@ Weapon Dealer
 Weapon Detaills Update v3.1 (30.03.2025)
 Weapon pickup
 Weapon Pickup Maker Update (4/4/2025)
-Weapon Zoom Unlimited Update v.25.03.30
+Weapon Zoom Unlimited Update v.25.05.22
 WeaponRecoilAuto
 WeaponTweaks
 Weather Forecast
