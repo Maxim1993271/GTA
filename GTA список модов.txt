@@ -476,7 +476,7 @@ Rusty Brown's Ring Donuts
 RZL-Trainer v5.0.1
 SA Homies Mod
 SA Sonic Adventure 2
-SA switch weapon
+SA switch weapon v1.2
 SACamFX
 SAFighting Extended
 SAMP Adjustments
